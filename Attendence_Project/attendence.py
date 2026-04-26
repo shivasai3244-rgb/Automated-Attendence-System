@@ -1,5 +1,5 @@
 # =====================================
-# 🔥 FINAL FACE ATTENDANCE SYSTEM (BEST UI)
+# FINAL FACE ATTENDANCE SYSTEM 
 # =====================================
 
 import cv2
